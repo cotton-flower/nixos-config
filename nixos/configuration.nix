@@ -54,7 +54,7 @@
 
   users.users.cotton = {
     isNormalUser = true;
-    description = "Cotton Blueskyes";
+    description = "cotton";
     extraGroups = [ "audio" "sound" "video" "networkmanager" "wheel" ];
     packages = with pkgs; [];
   };
